@@ -91,14 +91,14 @@ some high-income countries have partially decoupled economic growth from emissio
 ![GDP vs emissions](reports/03_gdp_vs_emissions.png)
 
 ### 4. Fuel source breakdown
-Coal dominates emissions in China and India; oil and gas dominate in the US — reflecting very
+Coal dominates emissions in China and India; oil and gas dominate in the US, reflecting very
 different energy mixes among the largest economies.
 
 ![Fuel mix by country](reports/04_fuel_mix.png)
 
 ### 5. Cumulative historical responsibility
 The US has emitted far more cumulatively since 1900 than any other country, despite China now leading
-in annual emissions — a key tension in climate policy debates about historical responsibility.
+in annual emissions which is a key tension in climate policy debates about historical responsibility.
 
 ![Cumulative emissions](reports/05_cumulative_emissions.png)
 
