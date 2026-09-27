@@ -1,0 +1,8 @@
+cat > .gitignore << 'EOF'
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+data/raw/*.csv
+EOF
